@@ -1,36 +1,19 @@
-This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+<h1>Teste Api</h1>
 
-## Getting Started
+<h2>Perguntas</h2>
+<b>Qual ferramentas e bibliotecas (libraries, framework, tools etc) você usou?</b>
+R: Utilizei next.js, React e CSS
 
-First, run the development server:
+<b>Porque você optou pela tecnologia?</b>
+R: Além de ser o que foi pedido, são tecnologias que por mais que sejam novas para mim, já tive contato na faculdade
 
-```bash
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
-```
+<b>Desafios que você enfrentou e como resolveu?</b>
+R: Achei complicado a questão da paginação e de como funciona os arquivos e as pastas dentro no next
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+<b>O que você entende que pode ser melhorado e como fazer isso?</b>
+R: Acredito que o design possa melhorar com um pouco de pesquisa, entendo que o código possa ser simplificado, talvez com auxílio de alguém com maior experiência e aprimorar a busca, podendo fazer filtros simultâneos, por exemplo.
 
-You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
-
-This project uses [`next/font`](https://nextjs.org/docs/basic-features/font-optimization) to automatically optimize and load Inter, a custom Google Font.
-
-## Learn More
-
-To learn more about Next.js, take a look at the following resources:
-
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
-
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js/) - your feedback and contributions are welcome!
-
-## Deploy on Vercel
-
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
-
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/deployment) for more details.
+<h2>Trabalhos Semelhantes</h2>
+Fiz outros dois projetos com a faculdade, mas esses são em Flutter
+<a href="https://gist.github.com/A-Marvulle/c92a6b687b6148a02759f5669b90f5a3">Magic API</a>
+<a href="https://gist.github.com/A-Marvulle/1f5581f93826c938d28ca539a0bbf582">Cat API</a>
